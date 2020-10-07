@@ -13,7 +13,7 @@ Welcome to DNAutoML's documentation!
 Introduction
 ============
 
-DNAutoML is an automated machine learning to for DNA sequence anaylsis. It encapsulates data acquisition and processing, DNN network design and training.ß
+DNAutoML is an automated machine learning to for DNA sequence anaylsis. It encapsulates data acquisition and processing, DNN network design and training.
 
 Installation
 ============
@@ -107,7 +107,7 @@ Generation from existing training data
 
 Citation
 ========
-Balint Antal, D. Bejamin Gordon: Automating Deep Learning for DNA Analysis
+Balint Antal, D. Benjamin Gordon: Automating Deep Learning for DNA Analysis
 
 Licence
 =======
